@@ -1,3 +1,5 @@
+package Homeworks;
+
 public class Question3 {
     public static int getFirstElement(String[] names) {
         int cabi = names.length -3;

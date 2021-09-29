@@ -1,3 +1,5 @@
+package Homeworks;
+
 public class Question2 {
     public static int getSecondToLastIndex(String[] names) {
         int cabi = names.length -2;
